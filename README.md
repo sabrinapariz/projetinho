@@ -118,7 +118,11 @@ Altere os valores ou taxas de câmbio conforme necessário no próprio código.
 Exemplo de Saída
 
 Valor convertido: 525.00
+
 Valor convertido: 309.00
+
 Valor convertido: 530.00
+
 Erro ao atualizar a taxa de câmbio: A taxa de câmbio deve ser um valor numérico positivo.
+
 Erro ao realizar a conversão: O valor a ser convertido deve ser positivo.
