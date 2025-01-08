@@ -1,7 +1,7 @@
 # projetinho
 código em phyton
 
-Sistema de Funcionários
+# Sistema de Funcionários
 
 Visão Geral
 
@@ -62,7 +62,7 @@ Salário base: 5000.00
 Pagamento total: 5000.00
 
 
-Conversor de Moedas
+# Conversor de Moedas
 
 Visão Geral
 
